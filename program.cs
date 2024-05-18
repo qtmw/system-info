@@ -6,7 +6,7 @@ class Program
     static void Main()
     {
         Console.WriteLine("System Information");
-        Console.WriteLine("Unskidded - Version 1.0");
+        Console.WriteLine("Credits to @qtmw");
         Console.WriteLine("===================");
 
 
